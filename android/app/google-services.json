@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "518637504108",
+    "project_id": "staff-salary-management-c3fc7",
+    "storage_bucket": "staff-salary-management-c3fc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518637504108:android:a99bccabb7042cf4e73a49",
+        "android_client_info": {
+          "package_name": "com.example.staff_salary_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518637504108-jji1bnu3et0h2h3743a53or3fueo6h1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkToD5f3D87c8_PIpETSNc5npjNTVvMQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518637504108-jji1bnu3et0h2h3743a53or3fueo6h1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518637504108-0p9cba96erttm38360ofrgahboqamd1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.staffSalaryManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
