@@ -89,9 +89,9 @@ class _DashboardScreenState
               color: Colors.grey,
             ),
           ),
-          const SizedBox(height: 30),
+          const SizedBox(height: 10),
 
-          const SizedBox(height: 35),
+          const SizedBox(height: 20),
 
 
           StreamBuilder<QuerySnapshot>(
@@ -322,7 +322,7 @@ class _DashboardScreenState
                 }
 
                 return Scrollbar(
-                    thumbVisibility: true,
+                    thumbVisibility: false,
                     child: SingleChildScrollView(
                       child: DataTable(
                     columnSpacing: 20,
